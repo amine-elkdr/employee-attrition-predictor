@@ -38,7 +38,7 @@ Ce projet vise à prédire le départ de salariés (attrition) dans une entrepri
 
 ---
 
-## 📸 Aperçus
+## 📸 Aperçusfdf
 *(Insérer ici des captures de graphiques, matrices de confusion ou plots SHAP)*
 
 ---
