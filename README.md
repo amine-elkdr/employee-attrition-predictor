@@ -45,7 +45,7 @@ Ce projet vise à prédire le départ de salariés (attrition) dans une entrepri
 
 ## 👤 Auteur
 **Amine El Kaddouri**  
-Étudiant en data science – ESIEA  
+Étudiant en 3ᵉ année du cycle ingénieur – ESIEA  
 🔗 [LinkedIn](https://www.linkedin.com/in/amine-el-kaddouri-2599812a4)
 
 ---
