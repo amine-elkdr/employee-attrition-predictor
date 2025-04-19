@@ -38,11 +38,6 @@ Ce projet vise à prédire le départ de salariés (attrition) dans une entrepri
 
 ---
 
-## 📸 Aperçusfdf
-*(Insérer ici des captures de graphiques, matrices de confusion ou plots SHAP)*
-
----
-
 ## 👤 Auteur
 **Amine El Kaddouri**  
 Étudiant en 3ᵉ année du cycle ingénieur – ESIEA  
